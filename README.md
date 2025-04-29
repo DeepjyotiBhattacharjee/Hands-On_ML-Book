@@ -1,0 +1,1 @@
+This is the implementation of the book "Hands on Machine Learning using Scikit Learn and TensorFlow (3rd Edition)
